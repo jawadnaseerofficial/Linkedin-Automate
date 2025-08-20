@@ -1,8 +1,8 @@
 # Linkedin-Automate
 
-🚀 inb – LinkedIn Automation Tool
+🚀 LinkedIn Automation Tool
 
-inb is a powerful automation tool for LinkedIn, built to simplify and enhance your networking efforts. It enables users to automate various LinkedIn tasks, including:
+This is a powerful automation tool for LinkedIn, built to simplify and enhance your networking efforts. It enables users to automate various LinkedIn tasks, including:
 
 Sending connection requests
 
